@@ -1,0 +1,762 @@
+{
+  "BTVN7": [
+    {
+      "id": 1,
+      "audio": "BTVN7/audio/q1.mp3",
+      "question_en": "Who is retiring next month?",
+      "question_vi": "Ai sẽ nghỉ hưu vào tháng tới?"
+    },
+    {
+      "id": 2,
+      "audio": "BTVN7/audio/q2.mp3",
+      "question_en": "What time does the train arrive?",
+      "question_vi": "Tàu đến vào lúc mấy giờ?"
+    },
+    {
+      "id": 3,
+      "audio": "BTVN7/audio/q3.mp3",
+      "question_en": "Who is in charge of designing the prototype?",
+      "question_vi": "Ai chịu trách nhiệm thiết kế nguyên mẫu?"
+    },
+    {
+      "id": 4,
+      "audio": "BTVN7/audio/q4.mp3",
+      "question_en": "What is the topic of today's seminar?",
+      "question_vi": "Chủ đề của hội thảo hôm nay là gì?"
+    },
+    {
+      "id": 5,
+      "audio": "BTVN7/audio/q5.mp3",
+      "question_en": "Which order still need to be processed?",
+      "question_vi": "Đơn hàng nào vẫn cần được xử lý?"
+    },
+    {
+      "id": 6,
+      "audio": "BTVN7/audio/q6.mp3",
+      "question_en": "What time does the movie start tonight?",
+      "question_vi": "Phim bắt đầu chiếu vào mấy giờ tối nay?"
+    },
+    {
+      "id": 7,
+      "audio": "BTVN7/audio/q7.mp3",
+      "question_en": "Who designed the floor plan?",
+      "question_vi": "Ai đã thiết kế sơ đồ mặt bằng?"
+    },
+    {
+      "id": 8,
+      "audio": "BTVN7/audio/q8.mp3",
+      "question_en": "What are we ordering for lunch?",
+      "question_vi": "Chúng ta sẽ gọi món gì cho bữa trưa?"
+    },
+    {
+      "id": 9,
+      "audio": "BTVN7/audio/q9.mp3",
+      "question_en": "Which of your dairy products are produced locally?",
+      "question_vi": "Các sản phẩm từ sữa nào của bạn được sản xuất tại địa phương?"
+    },
+    {
+      "id": 10,
+      "audio": "BTVN7/audio/q10.mp3",
+      "question_en": "Who should I tell if I need to leave early?",
+      "question_vi": "Tôi nên nói với ai nếu tôi muốn về sớm?"
+    },
+    {
+      "id": 11,
+      "audio": "BTVN7/audio/q11.mp3",
+      "question_en": "What should I bring to the trade show?",
+      "question_vi": "Tôi nên mang gì đến hội chợ thương mại?"
+    },
+    {
+      "id": 12,
+      "audio": "BTVN7/audio/q12.mp3",
+      "question_en": "Which printer should we order?",
+      "question_vi": "Chúng ta nên đặt máy in nào?"
+    },
+    {
+      "id": 13,
+      "audio": "BTVN7/audio/q13.mp3",
+      "question_en": "What are these sweaters made of?",
+      "question_vi": "Những chiếc áo len này được làm bằng gì?"
+    },
+    {
+      "id": 14,
+      "audio": "BTVN7/audio/q14.mp3",
+      "question_en": "Who is that man over there talking with Greg?",
+      "question_vi": "Người đàn ông đang nói chuyện với Greg kia là ai vậy?"
+    },
+    {
+      "id": 15,
+      "audio": "BTVN7/audio/q15.mp3",
+      "question_en": "Which training course did you register for?",
+      "question_vi": "Bạn đã đăng ký khóa đào tạo nào?"
+    },
+    {
+      "id": 16,
+      "audio": "BTVN7/audio/q16.mp3",
+      "question_en": "What is the Doctor Hnedez's memo about?",
+      "question_vi": "Bản ghi nhớ của Bác sĩ Hnedez nói về điều gì?"
+    },
+    {
+      "id": 17,
+      "audio": "BTVN7/audio/q17.mp3",
+      "question_en": "Who does this reference manual belong to?",
+      "question_vi": "Sổ tay tham khảo này thuộc về ai?"
+    },
+    {
+      "id": 18,
+      "audio": "BTVN7/audio/q18.mp3",
+      "question_en": "What are your stores hours of operation?",
+      "question_vi": "Cửa hàng của bạn mở cửa vào giờ nào?"
+    },
+    {
+      "id": 19,
+      "audio": "BTVN7/audio/q19.mp3",
+      "question_en": "Which of you approved to this loan application?",
+      "question_vi": "Ai trong số các bạn đã chấp thuận đơn xin vay này?"
+    },
+    {
+      "id": 20,
+      "audio": "BTVN7/audio/q20.mp3",
+      "question_en": "What flight is he arriving on?",
+      "question_vi": "Anh ấy sẽ đến bằng chuyến bay nào?"
+    },
+    {
+      "id": 21,
+      "audio": "BTVN7/audio/q21.mp3",
+      "question_en": "Who was selected to work on the advertising project?",
+      "question_vi": "Ai được bầu làm việc cho dự án quảng cáo?"
+    },
+    {
+      "id": 22,
+      "audio": "BTVN7/audio/q22.mp3",
+      "question_en": "What phone service do you use?",
+      "question_vi": "Bạn sử dụng dịch vụ điện thoại nào?"
+    },
+    {
+      "id": 23,
+      "audio": "BTVN7/audio/q23.mp3",
+      "question_en": "Which department is on the second floor?",
+      "question_vi": "Bộ phận nào ở tầng hai?"
+    },
+    {
+      "id": 24,
+      "audio": "BTVN7/audio/q24.mp3",
+      "question_en": "What is the best way to get to the riverside café?",
+      "question_vi": "Cách tốt nhất để đến quán cà phê ven sông là gì?"
+    },
+    {
+      "id": 25,
+      "audio": "BTVN7/audio/q25.mp3",
+      "question_en": "Which roads should I take to get to city hall?",
+      "question_vi": "Tôi nên đi đường nào để đến tòa thị chính?"
+    }
+  ],
+  "BTVN8": [
+    {
+      "id": 1,
+      "audio": "BTVN8/audio/q1.mp3",
+      "question_en": "Who's that man over there talking with Greg?",
+      "question_vi": "Người đàn ông đang nói chuyện với Greg ở đằng kia là ai?"
+    },
+    {
+      "id": 2,
+      "audio": "BTVN8/audio/q2.mp3",
+      "question_en": "What was the conference about?",
+      "question_vi": "Hội nghị về chủ đề gì?"
+    },
+    {
+      "id": 3,
+      "audio": "BTVN8/audio/q3.mp3",
+      "question_en": "Which path do I take to get to the lake?",
+      "question_vi": "Tôi nên đi con đường nào để đến hồ?"
+    },
+    {
+      "id": 4,
+      "audio": "BTVN8/audio/q4.mp3",
+      "question_en": "What's the best way to reach you?",
+      "question_vi": "Cách tốt nhất để liên lạc với bạn là gì?"
+    },
+    {
+      "id": 5,
+      "audio": "BTVN8/audio/q5.mp3",
+      "question_en": "Who's the target audience for this advertisement?",
+      "question_vi": "Đối tượng mục tiêu của quảng cáo này là ai?"
+    },
+    {
+      "id": 6,
+      "audio": "BTVN8/audio/q6.mp3",
+      "question_en": "What are your store's hours of operation?",
+      "question_vi": "Giờ hoạt động của cửa hàng bạn là gì?"
+    },
+    {
+      "id": 7,
+      "audio": "BTVN8/audio/q7.mp3",
+      "question_en": "Who do you think we should offer the position to?",
+      "question_vi": "Bạn nghĩ chúng ta nên đề nghị vị trí này cho ai?"
+    },
+    {
+      "id": 8,
+      "audio": "BTVN8/audio/q8.mp3",
+      "question_en": "What time does the train arrive?",
+      "question_vi": "Tàu đến vào lúc mấy giờ?"
+    },
+    {
+      "id": 9,
+      "audio": "BTVN8/audio/q9.mp3",
+      "question_en": "Who else will participate in the conference call tomorrow?",
+      "question_vi": "Ai khác sẽ tham gia cuộc gọi hội nghị vào ngày mai?"
+    },
+    {
+      "id": 10,
+      "audio": "BTVN8/audio/q10.mp3",
+      "question_en": "Which design was chosen for the company letterhead?",
+      "question_vi": "Thiết kế nào đã được chọn cho tiêu đề thư của công ty?"
+    },
+    {
+      "id": 11,
+      "audio": "BTVN8/audio/q11.mp3",
+      "question_en": "Who'll be in charge of finalizing the contract with Parker Associates?",
+      "question_vi": "Ai sẽ chịu trách nhiệm hoàn tất hợp đồng với Parker Associates?"
+    },
+    {
+      "id": 12,
+      "audio": "BTVN8/audio/q12.mp3",
+      "question_en": "What's the phone number for the pharmacy?",
+      "question_vi": "Số điện thoại của hiệu thuốc là gì?"
+    },
+    {
+      "id": 13,
+      "audio": "BTVN8/audio/q13.mp3",
+      "question_en": "Which of you approved this loan application?",
+      "question_vi": "Ai trong số các bạn đã phê duyệt đơn vay này?"
+    },
+    {
+      "id": 14,
+      "audio": "BTVN8/audio/q14.mp3",
+      "question_en": "Who was selected to work on the advertising project?",
+      "question_vi": "Ai đã được chọn để làm việc trong dự án quảng cáo?"
+    },
+    {
+      "id": 15,
+      "audio": "BTVN8/audio/q15.mp3",
+      "question_en": "Which branch should we ship this package to?",
+      "question_vi": "Chúng ta nên gửi gói hàng này đến chi nhánh nào?"
+    },
+    {
+      "id": 16,
+      "audio": "BTVN8/audio/q16.mp3",
+      "question_en": "What's the dress code in this office?",
+      "question_vi": "Quy định trang phục tại văn phòng này là gì?"
+    },
+    {
+      "id": 17,
+      "audio": "BTVN8/audio/q17.mp3",
+      "question_en": "Who's going to introduce the speaker?",
+      "question_vi": "Ai sẽ giới thiệu diễn giả?"
+    },
+    {
+      "id": 18,
+      "audio": "BTVN8/audio/q18.mp3",
+      "question_en": "Which training course did you register for?",
+      "question_vi": "Bạn đã đăng ký khóa đào tạo nào?"
+    },
+    {
+      "id": 19,
+      "audio": "BTVN8/audio/q19.mp3",
+      "question_en": "What happened to those files we worked on?",
+      "question_vi": "Điều gì đã xảy ra với những tài liệu mà chúng ta đã làm việc?"
+    },
+    {
+      "id": 20,
+      "audio": "BTVN8/audio/q20.mp3",
+      "question_en": "Who should I tell if I need to leave early?",
+      "question_vi": "Tôi nên thông báo với ai nếu cần rời đi sớm?"
+    },
+    {
+      "id": 21,
+      "audio": "BTVN8/audio/q21.mp3",
+      "question_en": "What kind of decoration would you like on the tables?",
+      "question_vi": "Bạn muốn loại trang trí nào trên các bàn?"
+    },
+    {
+      "id": 22,
+      "audio": "BTVN8/audio/q22.mp3",
+      "question_en": "Who's going to lead the training session today?",
+      "question_vi": "Ai sẽ dẫn dắt buổi đào tạo hôm nay?"
+    },
+    {
+      "id": 23,
+      "audio": "BTVN8/audio/q23.mp3",
+      "question_en": "What are the delivery options for mailing this package?",
+      "question_vi": "Các tùy chọn giao hàng nào cho việc gửi gói hàng này?"
+    },
+    {
+      "id": 24,
+      "audio": "BTVN8/audio/q24.mp3",
+      "question_en": "Who can bring the clients upstairs?",
+      "question_vi": "Ai có thể đưa khách hàng lên tầng trên?"
+    },
+    {
+      "id": 25,
+      "audio": "BTVN8/audio/q25.mp3",
+      "question_en": "Which of your dairy products are produced locally?",
+      "question_vi": "Sản phẩm sữa nào của bạn được sản xuất tại địa phương?"
+    }
+  ],
+  "BTVN9": [
+    {
+      "id": 1,
+      "audio": "BTVN9/audio/q1.mp3",
+      "question_en": "When should we discuss the sales figure?",
+      "question_vi": "Khi nào chúng ta nên thảo luận về số liệu bán hàng?"
+    },
+    {
+      "id": 2,
+      "audio": "BTVN9/audio/q2.mp3",
+      "question_en": "Where's the nearest print shop?",
+      "question_vi": "Cửa hàng in gần nhất ở đâu?"
+    },
+    {
+      "id": 3,
+      "audio": "BTVN9/audio/q3.mp3",
+      "question_en": "When will you start interviewing job candidates?",
+      "question_vi": "Khi nào bạn sẽ bắt đầu phỏng vấn các ứng viên?"
+    },
+    {
+      "id": 4,
+      "audio": "BTVN9/audio/q4.mp3",
+      "question_en": "Where can I leave my completed questionnaire?",
+      "question_vi": "Tôi có thể để bảng câu hỏi đã hoàn thành ở đâu?"
+    },
+    {
+      "id": 5,
+      "audio": "BTVN9/audio/q5.mp3",
+      "question_en": "When are you planning to put your house up for sale?",
+      "question_vi": "Khi nào bạn dự định rao bán ngôi nhà của mình?"
+    },
+    {
+      "id": 6,
+      "audio": "BTVN9/audio/q6.mp3",
+      "question_en": "Where did you store the extra name tags?",
+      "question_vi": "Bạn đã cất những thẻ tên dự phòng ở đâu?"
+    },
+    {
+      "id": 7,
+      "audio": "BTVN9/audio/q7.mp3",
+      "question_en": "When will Mr. Stein's book be available?",
+      "question_vi": "Khi nào sách của ông Stein sẽ có sẵn?"
+    },
+    {
+      "id": 8,
+      "audio": "BTVN9/audio/q8.mp3",
+      "question_en": "Where can I get a copy of the weekly newsletter?",
+      "question_vi": "Tôi có thể lấy bản sao của bản tin hàng tuần ở đâu?"
+    },
+    {
+      "id": 9,
+      "audio": "BTVN9/audio/q9.mp3",
+      "question_en": "When was the last time you updated the company website?",
+      "question_vi": "Lần cuối cùng bạn cập nhật trang web công ty là khi nào?"
+    },
+    {
+      "id": 10,
+      "audio": "BTVN9/audio/q10.mp3",
+      "question_en": "Where is the conference room on this floor?",
+      "question_vi": "Phòng hội nghị ở tầng này nằm ở đâu?"
+    },
+    {
+      "id": 11,
+      "audio": "BTVN9/audio/q11.mp3",
+      "question_en": "When is your connecting flight to Newark?",
+      "question_vi": "Khi nào là chuyến bay nối chuyến của bạn đến Newark?"
+    },
+    {
+      "id": 12,
+      "audio": "BTVN9/audio/q12.mp3",
+      "question_en": "Where are the best available seats for tonight's performance?",
+      "question_vi": "Những chỗ ngồi tốt nhất còn trống cho buổi biểu diễn tối nay là ở đâu?"
+    },
+    {
+      "id": 13,
+      "audio": "BTVN9/audio/q13.mp3",
+      "question_en": "When should we expect to receive payment?",
+      "question_vi": "Khi nào chúng ta có thể nhận được tiền thanh toán?"
+    },
+    {
+      "id": 14,
+      "audio": "BTVN9/audio/q14.mp3",
+      "question_en": "Where can I find Li's e-mail address?",
+      "question_vi": "Tôi có thể tìm địa chỉ email của Li ở đâu?"
+    },
+    {
+      "id": 15,
+      "audio": "BTVN9/audio/q15.mp3",
+      "question_en": "Where would you like me to leave this report?",
+      "question_vi": "Bạn muốn tôi để báo cáo này ở đâu?"
+    },
+    {
+      "id": 16,
+      "audio": "BTVN9/audio/q16.mp3",
+      "question_en": "When will the board meeting be over?",
+      "question_vi": "Khi nào cuộc họp ban giám đốc sẽ kết thúc?"
+    },
+    {
+      "id": 17,
+      "audio": "BTVN9/audio/q17.mp3",
+      "question_en": "Where can I rent commercial space downtown?",
+      "question_vi": "Tôi có thể thuê mặt bằng thương mại ở trung tâm thành phố ở đâu?"
+    },
+    {
+      "id": 18,
+      "audio": "BTVN9/audio/q18.mp3",
+      "question_en": "When should we submit the project proposal?",
+      "question_vi": "Khi nào chúng ta nên nộp đề xuất dự án?"
+    },
+    {
+      "id": 19,
+      "audio": "BTVN9/audio/q19.mp3",
+      "question_en": "Where will the training session be held?",
+      "question_vi": "Buổi đào tạo sẽ được diễn ra ở đâu?"
+    },
+    {
+      "id": 20,
+      "audio": "BTVN9/audio/q20.mp3",
+      "question_en": "When does Mr. Cho want to pick up his cake?",
+      "question_vi": "Ông Cho muốn lấy bánh của mình lúc nào?"
+    },
+    {
+      "id": 21,
+      "audio": "BTVN9/audio/q21.mp3",
+      "question_en": "Where should we leave the cleaning supplies?",
+      "question_vi": "Chúng ta nên để dụng cụ làm sạch ở đâu?"
+    },
+    {
+      "id": 22,
+      "audio": "BTVN9/audio/q22.mp3",
+      "question_en": "When will the employee telephone directory be ready?",
+      "question_vi": "Khi nào danh bạ điện thoại nhân viên sẽ sẵn sàng?"
+    },
+    {
+      "id": 23,
+      "audio": "BTVN9/audio/q23.mp3",
+      "question_en": "Where can I get a key for the hotel gym?",
+      "question_vi": "Tôi có thể lấy chìa khóa phòng tập gym của khách sạn ở đâu?"
+    },
+    {
+      "id": 24,
+      "audio": "BTVN9/audio/q24.mp3",
+      "question_en": "When do you think we'll hear if we've won the Jones account?",
+      "question_vi": "Bạn nghĩ khi nào chúng ta sẽ biết liệu mình có giành được tài khoản của Jones không?"
+    },
+    {
+      "id": 25,
+      "audio": "BTVN9/audio/q25.mp3",
+      "question_en": "Where can I find an employee-referral form?",
+      "question_vi": "Tôi có thể tìm một mẫu đơn giới thiệu nhân viên ở đâu?"
+    }
+  ],
+  "BTVN10": [
+    {
+      "id": 1,
+      "audio": "BTVN10/audio/q1.mp3",
+      "question_en": "What kind of tablet computer do you have?",
+      "question_vi": "Bạn có loại máy tính bảng nào?"
+    },
+    {
+      "id": 2,
+      "audio": "BTVN10/audio/q2.mp3",
+      "question_en": "What happened at the workshop yesterday?",
+      "question_vi": "Chuyện gì đã xảy ra tại buổi hội thảo hôm qua?"
+    },
+    {
+      "id": 3,
+      "audio": "BTVN10/audio/q3.mp3",
+      "question_en": "What did you think about that presenter?",
+      "question_vi": "Bạn nghĩ gì về người thuyết trình đó?"
+    },
+    {
+      "id": 4,
+      "audio": "BTVN10/audio/q4.mp3",
+      "question_en": "What floor is the seminar on?",
+      "question_vi": "Buổi hội thảo ở tầng mấy?"
+    },
+    {
+      "id": 5,
+      "audio": "BTVN10/audio/q5.mp3",
+      "question_en": "What do you think of the updated vacation policy?",
+      "question_vi": "Bạn nghĩ gì về chính sách nghỉ phép vừa cập nhật?"
+    },
+    {
+      "id": 6,
+      "audio": "BTVN10/audio/q6.mp3",
+      "question_en": "What was the topic of yesterday's workshop?",
+      "question_vi": "Chủ đề của buổi hội thảo hôm qua là gì?"
+    },
+    {
+      "id": 7,
+      "audio": "BTVN10/audio/q7.mp3",
+      "question_en": "Which dance performance did you like the best?",
+      "question_vi": "Bạn thích tiết mục khiêu vũ nào nhất?"
+    },
+    {
+      "id": 8,
+      "audio": "BTVN10/audio/q8.mp3",
+      "question_en": "Which of this week's training sessions should I sign up for?",
+      "question_vi": "Tôi nên đăng ký buổi đào tạo nào trong tuần này?"
+    },
+    {
+      "id": 9,
+      "audio": "BTVN10/audio/q9.mp3",
+      "question_en": "Which caterer is supplying food for the company picnic?",
+      "question_vi": "Nhà cung cấp đồ ăn nào chuẩn bị cho buổi dã ngoại công ty?"
+    },
+    {
+      "id": 10,
+      "audio": "BTVN10/audio/q10.mp3",
+      "question_en": "What still needs to be done before the grand opening?",
+      "question_vi": "Những việc gì còn cần hoàn thành trước khi khai trương?"
+    },
+    {
+      "id": 11,
+      "audio": "BTVN10/audio/q11.mp3",
+      "question_en": "What did you think of Ms. Delgado's job application?",
+      "question_vi": "Bạn nghĩ gì về đơn xin việc của cô Delgado?"
+    },
+    {
+      "id": 12,
+      "audio": "BTVN10/audio/q12.mp3",
+      "question_en": "Which desk is mine?",
+      "question_vi": "Cái bàn nào là của tôi?"
+    },
+    {
+      "id": 13,
+      "audio": "BTVN10/audio/q13.mp3",
+      "question_en": "Which software programs does Allison know how to use?",
+      "question_vi": "Allison biết sử dụng những chương trình phần mềm nào?"
+    },
+    {
+      "id": 14,
+      "audio": "BTVN10/audio/q14.mp3",
+      "question_en": "What does the conference registration fee include?",
+      "question_vi": "Phí đăng ký hội nghị bao gồm những gì?"
+    },
+    {
+      "id": 15,
+      "audio": "BTVN10/audio/q15.mp3",
+      "question_en": "What time does the train from Milan arrive?",
+      "question_vi": "Tàu từ Milan đến lúc mấy giờ?"
+    },
+    {
+      "id": 16,
+      "audio": "BTVN10/audio/q16.mp3",
+      "question_en": "What does the timeline look like for the lobby renovation?",
+      "question_vi": "Dòng thời gian cho việc sửa chữa sảnh đợi trông như thế nào?"
+    },
+    {
+      "id": 17,
+      "audio": "BTVN10/audio/q17.mp3",
+      "question_en": "What does the holiday package include?",
+      "question_vi": "Gói kỳ nghỉ bao gồm những gì?"
+    },
+    {
+      "id": 18,
+      "audio": "BTVN10/audio/q18.mp3",
+      "question_en": "Which room can we use for Thursday's client reception?",
+      "question_vi": "Chúng ta có thể sử dụng phòng nào cho buổi tiếp tân khách hàng vào thứ năm?"
+    },
+    {
+      "id": 19,
+      "audio": "BTVN10/audio/q19.mp3",
+      "question_en": "Which restaurant did Mayumi recommend?",
+      "question_vi": "NMayumi đã giới thiệu nhà hàng nào?"
+    },
+    {
+      "id": 20,
+      "audio": "BTVN10/audio/q20.mp3",
+      "question_en": "What color folders would you like me to buy?",
+      "question_vi": "Bạn muốn tôi mua chiếc cặp màu gì?"
+    },
+    {
+      "id": 21,
+      "audio": "BTVN10/audio/q21.mp3",
+      "question_en": "What's the membership fee at the fitness center on Oak Street?",
+      "question_vi": "Phí thành viên tại trung tâm thể dục trên phố Oak là bao nhiêu?"
+    },
+    {
+      "id": 22,
+      "audio": "BTVN10/audio/q22.mp3",
+      "question_en": "Which printer did you buy?",
+      "question_vi": "Bạn đã mua máy in nào?"
+    },
+    {
+      "id": 23,
+      "audio": "BTVN10/audio/q23.mp3",
+      "question_en": "Which of these paint colors would look best in the hallway?",
+      "question_vi": "Màu sơn nào trong số này sẽ đẹp nhất khi sơn ở hành lang?"
+    },
+    {
+      "id": 24,
+      "audio": "BTVN10/audio/q24.mp3",
+      "question_en": "What time does your bus come?",
+      "question_vi": "Xe buýt của bạn đến lúc mấy giờ?"
+    },
+    {
+      "id": 25,
+      "audio": "BTVN10/audio/q25.mp3",
+      "question_en": "Which factory produces these umbrellas?",
+      "question_vi": "Nhà máy nào sản xuất những chiếc ô này?"
+    }
+  ],
+  "BTVN11": [
+    {
+      "id": 1,
+      "audio": "BTVN11/audio/q1.mp3",
+      "question_en": "Why did you order so many file folders?",
+      "question_vi": "Tại sao bạn lại đặt nhiều bìa hồ sơ như vậy?"
+    },
+    {
+      "id": 2,
+      "audio": "BTVN11/audio/q2.mp3",
+      "question_en": "How do I renew my membership?",
+      "question_vi": "Làm thế nào để tôi gia hạn tư cách thành viên?"
+    },
+    {
+      "id": 3,
+      "audio": "BTVN11/audio/q3.mp3",
+      "question_en": "Why was the company picnic rescheduled?",
+      "question_vi": "Tại sao buổi dã ngoại công ty lại được dời lịch?"
+    },
+    {
+      "id": 4,
+      "audio": "BTVN11/audio/q4.mp3",
+      "question_en": "How's the construction of the new office building coming along?",
+      "question_vi": "Việc xây dựng tòa nhà văn phòng mới tiến triển thế nào rồi?"
+    },
+    {
+      "id": 5,
+      "audio": "BTVN11/audio/q5.mp3",
+      "question_en": "Why was the office furniture we ordered returned to the warehouse?",
+      "question_vi": "Tại sao nội thất văn phòng mình đặt lại bị trả về kho?"
+    },
+    {
+      "id": 6,
+      "audio": "BTVN11/audio/q6.mp3",
+      "question_en": "How soon can we announce the staff promotions?",
+      "question_vi": "Bao lâu nữa thì chúng ta có thể thông báo thăng chức cho nhân viên?"
+    },
+    {
+      "id": 7,
+      "audio": "BTVN11/audio/q7.mp3",
+      "question_en": "Why isn't Matt's contact information in the company directory?",
+      "question_vi": "Tại sao thông tin liên lạc của Matt không có trong danh bạ công ty?"
+    },
+    {
+      "id": 8,
+      "audio": "BTVN11/audio/q8.mp3",
+      "question_en": "How many times have you relocated for work?",
+      "question_vi": "Bạn đã chuyển nơi ở để làm việc bao nhiêu lần rồi?"
+    },
+    {
+      "id": 9,
+      "audio": "BTVN11/audio/q9.mp3",
+      "question_en": "Why did Doctor Warner post the study results online?",
+      "question_vi": "Tại sao bác sĩ Warner lại đăng kết quả nghiên cứu lên mạng?"
+    },
+    {
+      "id": 10,
+      "audio": "BTVN11/audio/q10.mp3",
+      "question_en": "How do I log in to my e-mail account?",
+      "question_vi": "Làm thế nào để tôi đăng nhập vào tài khoản email của mình?"
+    },
+    {
+      "id": 11,
+      "audio": "BTVN11/audio/q11.mp3",
+      "question_en": "Why was the finance department's meeting postponed?",
+      "question_vi": "Tại sao cuộc họp của bộ phận tài chính bị hoãn lại?"
+    },
+    {
+      "id": 12,
+      "audio": "BTVN11/audio/q12.mp3",
+      "question_en": "How can we increase our sales?",
+      "question_vi": "Làm thế nào chúng ta có thể tăng doanh số bán hàng?"
+    },
+    {
+      "id": 13,
+      "audio": "BTVN11/audio/q13.mp3",
+      "question_en": "How many market surveys were conducted last year?",
+      "question_vi": "Có bao nhiêu cuộc khảo sát thị trường được thực hiện năm ngoái?"
+    },
+    {
+      "id": 14,
+      "audio": "BTVN11/audio/q14.mp3",
+      "question_en": "Why were our expenses over budget last month?",
+      "question_vi": "Tại sao chi phí của chúng ta lại vượt ngân sách vào tháng trước?"
+    },
+    {
+      "id": 15,
+      "audio": "BTVN11/audio/q15.mp3",
+      "question_en": "How can I place a catering order for an event?",
+      "question_vi": "Làm thế nào để tôi đặt đơn dịch vụ ăn uống cho một sự kiện?"
+    },
+    {
+      "id": 16,
+      "audio": "BTVN11/audio/q16.mp3",
+      "question_en": "Why did Louisa decide to retire this year?",
+      "question_vi": "Tại sao Louisa lại quyết định nghỉ hưu năm nay?"
+    },
+    {
+      "id": 17,
+      "audio": "BTVN11/audio/q17.mp3",
+      "question_en": "Why's everybody waiting in front of the building?",
+      "question_vi": "Tại sao mọi người đều đang đợi ở trước tòa nhà?"
+    },
+    {
+      "id": 18,
+      "audio": "BTVN11/audio/q18.mp3",
+      "question_en": "How often does the coffee machine need to be cleaned?",
+      "question_vi": "Máy pha cà phê cần được vệ sinh bao lâu một lần?"
+    },
+    {
+      "id": 19,
+      "audio": "BTVN11/audio/q20.mp3",
+      "question_en": "Why does the office look so empty this afternoon?",
+      "question_vi": "Tại sao văn phòng trông vắng vẻ vào buổi chiều?"
+    },
+    {
+      "id": 20,
+      "audio": "BTVN11/audio/q19.mp3",
+      "question_en": "How can I create a new user account on this computer?",
+      "question_vi": "Làm thế nào để tôi tạo một tài khoản người dùng mới trên máy tính này?"
+    },
+    {
+      "id": 21,
+      "audio": "BTVN11/audio/q21.mp3",
+      "question_en": "Why do you need to reschedule your appointment?",
+      "question_vi": "Tại sao bạn cần phải lên lịch lại cuộc hẹn của mình?"
+    },
+    {
+      "id": 22,
+      "audio": "BTVN11/audio/q22.mp3",
+      "question_en": "How long have you been employed at this organization?",
+      "question_vi": "Bạn đã làm việc tại tổ chức này bao lâu rồi?"
+    },
+    {
+      "id": 23,
+      "audio": "BTVN11/audio/q23.mp3",
+      "question_en": "Why does Ms. Yamada want access to the laboratory?",
+      "question_vi": "Tại sao cô Yamada muốn truy cập phòng thí nghiệm?"
+    },
+    {
+      "id": 24,
+      "audio": "BTVN11/audio/q24.mp3",
+      "question_en": "How will the contest winners receive their gift certificates?",
+      "question_vi": "Những người thắng cuộc thi sẽ nhận được phiếu quà tặng của họ như thế nào?"
+    },
+    {
+      "id": 25,
+      "audio": "BTVN11/audio/q25.mp3",
+      "question_en": "Why was the time of the morning news program changed?",
+      "question_vi": "Tại sao thời gian của chương trình tin tức sáng đã bị thay đổi?"
+    }
+  ]
+}
